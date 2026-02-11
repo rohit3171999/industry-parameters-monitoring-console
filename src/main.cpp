@@ -1,4 +1,5 @@
 #include <Arduino.h>
+#include <Wire.h>
 void setup() {
 // write your initialization code here
 }
